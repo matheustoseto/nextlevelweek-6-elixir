@@ -3,18 +3,13 @@ Api em elixir construído na edição 6 do nextlevelweek da rocketseat
 
 ## Configuração
   > https://www.notion.so/Configura-es-do-ambiente-619e245ab8c7483db8118bcb41c51fcc
+  > https://github.com/matheustoseto/nextlevelweek-6-elixir/blob/main/wabanex/README.md
 
 ## Clone Repository
 
   ```sh
   $ git clone https://github.com/matheustoseto/nextlevelweek-6-elixir.git
   $ cd nextlevelweek-6-elixir/wabanex
-  ```
-
-## Create Table
-
-  ```sh
-  $ mix ecto.migrate
   ```
 
 ## Start Aplication
